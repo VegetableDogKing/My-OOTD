@@ -5,8 +5,8 @@ This project provides a toolkit to  get the weather of the selected date and are
 
 ## How to run:
 * run [screen.py](screen.py), select the date and area and press Start!
-<img src="pic/run.png"/>
 * press Return to go back to menu
+<img src="pic/run.png"/>
 
 #### Requirements
 ```
